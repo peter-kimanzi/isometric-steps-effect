@@ -7,3 +7,5 @@ isometric steps effect animation using html and css
 * CSS
 
 ## Live website can be viewed here
+
+https://peter-kimanzi.github.io/isometric-steps-effect/
