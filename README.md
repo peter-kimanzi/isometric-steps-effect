@@ -6,4 +6,4 @@ isometric steps effect animation using html and css
 * HTML
 * CSS
 
-## Live
+## Live website can be viewed here
